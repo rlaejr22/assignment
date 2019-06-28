@@ -1,0 +1,58 @@
+.navbar {
+  background-color: black;
+}
+
+.navbar-brand {
+  padding-top: 15px;
+}
+
+.navbar-brand h1 { /* Food, LLC section */
+  color: #7DCAFC;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#nav-list a { /*Menu drop down design*/
+  color: #000000;
+  background-color: white;
+  border: 1px solid black;
+}
+#nav-list a:hover {
+  background: #A9CCE3;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.chicken {
+  background-color: #7DCAFC;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.chicken div { /*Section title*/
+  font-size: 1.5em;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  position: relative;
+  color: #000000;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+}
+
+#top-button {
+  border: 3px solid #0000FF;
+  position: relative;
+  float: right;
+  background-color: #0000FF;
+  color: white;
+}
